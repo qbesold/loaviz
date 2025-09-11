@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\loaviz\\lab1\\labik1-zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336C15CC-0B98-4BE6-8B9E-2CED762C8496}|labik1-zadanie\\labik1-zadanie.vcxproj|C:\\loaviz\\lab1\\labik1-zadanie\\labik1-zadanie\\labik1-zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{336C15CC-0B98-4BE6-8B9E-2CED762C8496}|labik1-zadanie\\labik1-zadanie.vcxproj|solutionrelative:labik1-zadanie\\labik1-zadanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labik1-zadanie.cpp",
+              "DocumentMoniker": "C:\\loaviz\\lab1\\labik1-zadanie\\labik1-zadanie\\labik1-zadanie.cpp",
+              "RelativeDocumentMoniker": "labik1-zadanie\\labik1-zadanie.cpp",
+              "ToolTip": "C:\\loaviz\\lab1\\labik1-zadanie\\labik1-zadanie\\labik1-zadanie.cpp",
+              "RelativeToolTip": "labik1-zadanie\\labik1-zadanie.cpp",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAowB0BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T23:54:36.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
